@@ -1,0 +1,5 @@
+train: agri_data/images/train
+val: agri_data/images/val
+
+nc: 2
+names: ['crop', 'weed']
